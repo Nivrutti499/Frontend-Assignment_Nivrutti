@@ -24,13 +24,13 @@ This project is a **3D simulation of the Solar System** using **Three.js**, comp
 ## 📁 Project Structure
 
 project/
-index.html # Main HTML file
+index.html #   Main HTML file
 
- style.css # Styling for controls and canvas
+ style.css #   Styling for controls and canvas
  
- script.js # Main 3D logic using Three.js
+ script.js #    Main 3D logic using Three.js
  
- README.md # Project overview
+ README.md #    Project overview
 
 
 ## 🛠️ Technologies Used
