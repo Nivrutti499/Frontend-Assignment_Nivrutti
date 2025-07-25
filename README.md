@@ -76,11 +76,7 @@ This project is open-source and free to use for educational or personal use.
 🤝 Contributing
 Feel free to fork the repository and submit pull requests if you'd like to enhance the project!
 
-Made with 💫 by [Your Name]
+Made with 💫 by [Nivrutti Chaudhari]
 
-yaml
-Copy
-Edit
 
----
 
